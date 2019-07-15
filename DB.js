@@ -1,3 +1,3 @@
 module.exports = {
-  DB: 'mongodb://localhost:27017/InfiniteLight'
+  DB: 'mongodb://localhost:27017/xxxxxx'
 };
